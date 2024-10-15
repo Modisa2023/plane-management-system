@@ -1,0 +1,8 @@
+***** Ticket information ***** 
+Row: A
+Seat number: 2
+Price: £200
+****** Personal details ****** 
+Name: d
+Surname: s
+Email: fd

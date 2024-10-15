@@ -1,0 +1,9 @@
+***** Ticket information ***** 
+Row: A
+Seat number: 4
+Price: £200
+****** Personal details ****** 
+Name: d
+Surname: fg
+Email: e
+Height: 5.67
